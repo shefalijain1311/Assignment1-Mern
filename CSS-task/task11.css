@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+.profile-image {
+    margin-top: 100px;
+}
+
+.profile-image img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.login-form {
+    margin-top: 20px;
+    padding: 20px;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.form-group {
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.form-group label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input {
+    width: 95%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.Remember{
+    margin-top: 10px;
+    font-weight: bolder;
+    text-align: left;
+}
+
+.login-button {
+    width: 100%;
+    padding: 10px;
+    background-color:rgb(52, 173, 52);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    transition: background-color 0.2s;
+    cursor: pointer;
+
+}
+
+.login-button:hover {
+    background-color: #106214;
+}
+
+.bottom{
+    margin-top: 20px;
+    display:block;
+    border:none;
+    font-size: small;
+    text-align: right;
+    padding: 10px;
+    background-color: rgb(198, 194, 194);
+}
+.cancel{
+    background-color: rgb(236, 31, 31);
+    border:none;
+    padding:10px;
+    color:#fff;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-right:310px;
+    transition: background-color 0.2s;
+    cursor: pointer;
+}
+
+.cancel:hover{
+    background-color: brown;
+}

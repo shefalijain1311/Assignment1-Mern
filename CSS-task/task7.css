@@ -1,0 +1,27 @@
+/* .a1 td{
+    width:120px;
+    background-color:rgb(159, 234, 238) ;
+    color:blue;
+}
+.a1 td:hover{
+    background-color: rgb(231, 170, 48);
+    color: white;
+}
+
+.a1 th{
+    background-color:rgb(231, 170, 48) ;
+    color:white;
+    font-weight: lighter;
+}
+
+.a2 td{
+    border-right: 1px solid blue;
+    background-color:rgb(225, 230, 231);
+    color: blue;
+    width:30px;
+}
+
+.a2 td:hover{
+    background-color: grey;
+    color: white;
+} */

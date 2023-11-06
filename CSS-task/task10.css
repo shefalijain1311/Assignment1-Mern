@@ -1,0 +1,44 @@
+body {
+    background-color: yellow;
+    font-family: Arial, sans-serif;
+    margin: 50px;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav {
+    width: 200px;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.nav a {
+    display: block;
+    margin-bottom: 15px;
+    text-decoration: none;
+    color: Blue;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.nav a:hover {
+    background-color: #caa955;
+    color: aliceblue;
+}
+
+.content {
+    padding:10px;
+    color:blueviolet ;
+    font-size: 18px;
+}
+
+.block {
+    background-color: #ffffff;
+    border-right: 25px solid #000000;
+    padding: 20px;
+    margin-bottom: 30px;
+}
